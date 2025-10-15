@@ -11,7 +11,7 @@ Consejos para hacer mas seguro tu puesto de trabajo y no comprometer ningún dat
 * Cerciórate de con quien hablas por teléfono si es una fuente real antes de facilitar datos 
 
 Ejes fundamentales en nuestro puesto de trabajo:
-* [[#La información]]:
+* [La información](#L informacion):
 	*  [[#Centralización]]
 	* [[#Compartición]]
 	* [[#Copia]]
@@ -24,7 +24,7 @@ Ejes fundamentales en nuestro puesto de trabajo:
 	* [[#Destrucción de datos]]
 # Consecuencias de la fuga o robo de la información 
 Como consecuencias tendríamos consecuencias legales, económicas y raño y reputación de la empresa que se vería afectada.
-* [[#Extorsión fraude]] sdsadsad
+* [[#Extorsión fraude]] 
 * [[#Ingeniería socias]]
 * [[#Consejos de seguridad]]
 # Uso seguro del correo electrónico 
