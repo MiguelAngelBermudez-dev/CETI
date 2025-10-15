@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "output/Practica 1 - Incidentes de Ciberseguridad Miguel Ángel Bermúdez Cote.md",
+                "file": "INCIDENTES/Practicas/Practica1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Practica 1 - Incidentes de Ciberseguridad Miguel Ángel Bermúdez Cote"
+              "title": "Practica1"
             }
           }
         ]
@@ -169,11 +169,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "d4c70314c44b592f",
+  "active": "bb0544a07b9b6766",
   "lastOpenFiles": [
-    "INCIDENTES/Practicas/Practica 1 - Incidentes de Ciberseguridad Miguel Ángel Bermúdez Cote.md",
-    "output/Practica 1 - Incidentes de Ciberseguridad Miguel Ángel Bermúdez Cote.md",
+    "INCIDENTES/Practicas/Practica1.md",
+    "INCIDENTES/Practicas/Practica1.md",
+    "exportaciones",
+    "output/Practica1.md",
     "output",
+    "output/Practica 1 - Incidentes de Ciberseguridad Miguel Ángel Bermúdez Cote.md",
     "LINUX/media/7.png",
     "LINUX/Interfaz y escritorio.md",
     "LINUX/media/Sin confirmar 567383.crdownload",
@@ -193,7 +196,6 @@
     "LINUX/Terminologia Linux.md",
     "media/Sin confirmar 479196.crdownload",
     "LINUX/media",
-    "MEDIA",
     "HACKING ETICO/Definiciones Básicas.md",
     "INCIDENTES/Practica 1/centralizacion.md",
     "INCIDENTES/Practica 1/Compartición.md",
