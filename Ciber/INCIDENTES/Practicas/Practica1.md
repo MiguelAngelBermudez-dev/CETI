@@ -12,7 +12,7 @@ Consejos para hacer mas seguro tu puesto de trabajo y no comprometer ningún dat
 
 Ejes fundamentales en nuestro puesto de trabajo:
 * [La información](#user-content-la-información):
-	*  [[#Centralización]]
+	*  [Centralización](#user-content-centralizacion)
 	* [[#Compartición]]
 	* [[#Copia]]
 * [[#Los Empleados]]: 
