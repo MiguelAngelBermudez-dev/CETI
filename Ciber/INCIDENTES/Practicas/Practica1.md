@@ -53,6 +53,7 @@ Como gestionar adecuadamente tus contraseñas
 * [[#Gestor de contraseñas]]
 * [[#Crear contraseñas]]
 [[#consejos para crear contraseñas]]
+[prueba](#prueba)
 # Ingeniería social 
 La **ingeniería social** busca **extraer información** usando técnicas complejas y luego **combinar** esa información con otros pequeños datos. Esta combinación de fragmentos es **mucho más peligrosa** que cada pieza o técnica de extracción usada por separado.
 En la **ingeniería social**, el objetivo principal del ataque es la **persona** o **usuario**, ya que es el **eslabón más débil** de cualquier infraestructura tecnológica.
@@ -357,3 +358,4 @@ Generalmente, el ataque implica la **suplantación de identidad** de **empresas 
 ### SMShing
 Esta estafa se llama **Smishing** (SMS + Phishing).
 Consiste en **estafas por medio de SMS, WhatsApp o servicios de mensajería de texto** en general. Los atacantes aprovechan la mayor credibilidad que otorgan los mensajes de texto (especialmente debido a la verificación en dos pasos) para engañar a las víctimas e incitarlas a interactuar (por ejemplo, haciendo clic en un enlace fraudulento).
+# prueba
