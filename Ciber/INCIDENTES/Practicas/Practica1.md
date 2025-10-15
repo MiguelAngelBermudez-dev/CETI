@@ -11,7 +11,7 @@ Consejos para hacer mas seguro tu puesto de trabajo y no comprometer ningún dat
 * Cerciórate de con quien hablas por teléfono si es una fuente real antes de facilitar datos 
 
 Ejes fundamentales en nuestro puesto de trabajo:
-* [La información](#La informacion):
+* [La información](#user-content-la-información):
 	*  [[#Centralización]]
 	* [[#Compartición]]
 	* [[#Copia]]
