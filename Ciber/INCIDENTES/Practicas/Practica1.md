@@ -14,8 +14,8 @@ Ejes fundamentales en nuestro puesto de trabajo:
 * [La información](#user-content-la-información):
 	*  [Centralización](#user-content-centralización)
 	* [Compartición](#Compartición)
-	* [Copia](Copia)
-* [Los Empleados](Los-Empleados): 
+	* [Copia](#Copia)
+* [Los Empleados](#Los-Empleados): 
 	* [[#Evitar algunas acciones]]
 	* [[#Información confidencial]]
 *  [[#Los soportes]]:
