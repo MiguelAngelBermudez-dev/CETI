@@ -16,44 +16,44 @@ Ejes fundamentales en nuestro puesto de trabajo:
 	* [Compartición](#Compartición)
 	* [Copia](#Copia)
 * [Los Empleados](#Los-Empleados): 
-	* [[#Evitar algunas acciones]]
-	* [[#Información confidencial]]
-*  [[#Los soportes]]:
-	* [[#Control de soportes]] 
-	* [[#Impresoras]] 
-	* [[#Destrucción de datos]]
+	* [Evitar algunas acciones](#Evitar-algunas-acciones)
+	* [Información confidencial](#Información-confidencial)
+*  [Los soportes](#Los-soportes):
+	* [Control de soportes](#Control-de-soportes) 
+	* [Impresoras](#Impresoras) 
+	* [Destrucción de datos](#Destrucción-de-datos)
 # Consecuencias de la fuga o robo de la información 
 Como consecuencias tendríamos consecuencias legales, económicas y raño y reputación de la empresa que se vería afectada.
-* [[#Extorsión fraude]] 
-* [[#Ingeniería socias]]
-* [[#Consejos de seguridad]]
+* [Extorsión fraude](#Extorsión-fraude) 
+* [Ingeniería social](#Ingeniería-social)
+* [Consejos de seguridad](#Consejos-de-seguridad)
 # Uso seguro del correo electrónico 
 Lo mas importante para la seguridad en tu correo electrónico es uno caer en técnicas de phishing usando la lógica y estando siempre alerta.
-* [[#El phishing]]
-	* [[#Consejos para detectarlos]]
-* [[#Prevención]]:
-	* [[#acciones]]
-* [[#Tu banco nunca lo haría]]
-	* [[#Acciones apartado banco]]
-* [[#Precaución]]
-	* [[#Medidas Preventivas]]
+* [El phishing](#El-phising)
+	* [Consejos para detectarlos](#Consejos-para-detectarlos)
+* [Prevención](#Prevención):
+	* [acciones](#acciones)
+* [Tu banco nunca lo haría](#Tu-banco-nunca-lo-haría)
+	* [Acciones apartado banco](#Acciones-apartado-banco)
+* [Precaución](#Precaución)
+	* [Medidas Preventivas](#Medidas-Preventivas)
 # Contraseñas 
 Cuando accedemos a un servicio dispositivo o aplicación 
 existen dos datos fundamentales 
 * Nombre de usuario que nos identifica 
 * Contraseña que nos autentifica 
 Cualquier sistema de autentificación de usuarios se basa en la utilización de estos tres factores 
-* [[#Lo que sabemos]]
-* [[#Lo que eres]]
-* [[#Lo que tienes]]
-[[#Reflexiona sobre la seguridad de los datos]]
+* [Lo que sabemos](#Lo-que-sabemos)
+* [Lo que eres](#Lo-que-eres)
+* [Lo que tienes](#Lo-que-tienes)
+[Reflexiona sobre la seguridad de los datos](#Reflexiona-sobre-la-seguridad-de-los-datos)
 Como gestionar adecuadamente tus contraseñas
-* [[#Herramientas]] 
-* [[#Politica de contraseñas]]
-* [[#Gestor de contraseñas]]
-* [[#Crear contraseñas]]
-[[#consejos para crear contraseñas]]
-[prueba](#prueba)
+* [Herramientas](#Herramientas) 
+* [Politica de contraseñas](#Politica-de-contraseñas)
+* [Gestor de contraseñas](#Gestor-de-contraseñas)
+* [Crear contraseñas](#Crear-contraseñas)
+[consejos para crear contraseñas](#consejos-para-crear-contraseñas)
+
 # Ingeniería social 
 La **ingeniería social** busca **extraer información** usando técnicas complejas y luego **combinar** esa información con otros pequeños datos. Esta combinación de fragmentos es **mucho más peligrosa** que cada pieza o técnica de extracción usada por separado.
 En la **ingeniería social**, el objetivo principal del ataque es la **persona** o **usuario**, ya que es el **eslabón más débil** de cualquier infraestructura tecnológica.
@@ -77,15 +77,15 @@ Este componente se fundamenta en diversos factores:
 * bajadas de atención 
 * Miedo e incluso empatía
 ## ¿Cómo estar prevenidos para los ataques de ingeniería social?
-*  [[#Objetivos]]
-* [[#Vulnerabilidades]] 
-* [[#Medios]]
+*  [Objetivos](#Objetivos)
+* [Vulnerabilidades](#Vulnerabilidades) 
+* [Medios](#Medios)
 Ejemplos de posibles ataques:
-* [[#Phishing]]
-* [[#Spear-phishing]]
-* [[#Whaling]]
-* [[#Vishing]]
-* [[#SMShing]]
+* [Phishing](#Phishing)
+* [Spear-phishing](#Spear-phishing)
+* [Whaling](#Whaling)
+* [Vishing](Vishing)
+* [SMShing](#SMShing)
 
 ## La información 
  son activos de nuestra empresa y pueden exponerse a riesgos por ellos debemos tener en cuenta tres factores
@@ -358,4 +358,3 @@ Generalmente, el ataque implica la **suplantación de identidad** de **empresas 
 ### SMShing
 Esta estafa se llama **Smishing** (SMS + Phishing).
 Consiste en **estafas por medio de SMS, WhatsApp o servicios de mensajería de texto** en general. Los atacantes aprovechan la mayor credibilidad que otorgan los mensajes de texto (especialmente debido a la verificación en dos pasos) para engañar a las víctimas e incitarlas a interactuar (por ejemplo, haciendo clic en un enlace fraudulento).
-# prueba
