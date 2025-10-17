@@ -1,14 +1,18 @@
-# Practica 1 Bastionado
+
 
 ## Realizado por Miguel Angel Bermudez Cote
 
 ### Indice:
 
-- [**site:pastebin.com ‘key windows11’**](#**1.-site:pastebin.com-‘key windows11’** )
-- [**site:github.com 'default credential routers tplink' OR 'list credential tplink' OR 'library credential tplink’**](#**2.-site:github.com-'default-credential-routers-tplink'-OR 'list-credential-tplink'-OR-'library-credential-tplink’**)
+- [site:pastebin.com ‘key windows11’](#1.-site:pastebin.com-‘key-windows11’)
+- [site:github.com 'default credential routers tplink' OR 'list credential tplink' OR 'library credential tplink’](#2.-site:github.com-'default-credential-routers-tplink'-OR-'list-credential-tplink'-OR-'library-credential-tplink’)
 - [site:pastebin.com intext:'facebook password leak’](#3.-site:pastebin.com-intext:'facebook-password-leak’)
-- [site:navantia.es filetype:pdf'empleados ‘](#4.-site:navantia.es-filetype:pdf'empleados‘)
+- [site:navantia.es filetype:pdf'empleados‘](#4.-site:navantia.es-filetype:pdf'empleados‘)
 - [site:futbollibre.mx](#5.-site:futbollibre.mx)
+
+
+
+
 
 # objetivos
 
