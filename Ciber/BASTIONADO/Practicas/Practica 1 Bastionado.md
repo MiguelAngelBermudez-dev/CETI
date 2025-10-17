@@ -18,7 +18,7 @@
 
 En esta practica usaremos google dorking para realizar busqueda de datos avanzadas de leaks filtraciones de informacion que estan accesibles en la web como en paginas como [pastebin.com](http://pastebin.com), re4alizaremos 5 busquedas de filtraciones utilizando diferentes tecnicas de busqueda avanzada y las explicare paso a paso 
 
-### **1. site:pastebin.com ‘key windows11’**
+### 1. site:pastebin.com ‘key windows11’
 
 - resultado:como podemos ver en la captura de abajo hemos encontrado una filtracion de claves de windows 11 pro para activar el producto usando la sintaxis de busqueda avanzada ‘site:’
 Limita la búsqueda únicamente a un **dominio o sitio web específico**.
@@ -27,7 +27,7 @@ Fuerza a Google a buscar la **frase exacta** o la secuencia de palabras tal como
 
 ![image.png](image.png)
 
-### **2. site:github.com 'default credential routers tplink' OR 'list credential tplink' OR 'library credential tplink’**
+### 2. site:github.com 'default credential routers tplink' OR 'list credential tplink' OR 'library credential tplink’
 
 - En esta busqueda lo que he querido indicar es que en repositorios github busque credenciales de los direfentes routers tplink indicando la condicon OR para realizar varias busquedas de diferente informacion
 
