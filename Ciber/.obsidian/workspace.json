@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INCIDENTES/Practicas/Practica1.md",
+                "file": "FORENSE/Forense en Windows.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Practica1"
+              "title": "Forense en Windows"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -160,42 +160,51 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
     }
   },
-  "active": "bb0544a07b9b6766",
+  "active": "d4c70314c44b592f",
   "lastOpenFiles": [
+    "HACKING ETICO/Practicas/Creacion de cuante y realizacion de Maquinas.md",
+    "FORENSE/Forense en Windows.md",
+    "FORENSE",
+    "HACKING ETICO/Practicas/Pasted image 20251017104404.png",
+    "HACKING ETICO/Practicas/Pasted image 20251017104325.png",
+    "HACKING ETICO/Practicas/Pasted image 20251017104123.png",
+    "BASTIONADO/Practicas/Practica 1 Bastionado.md",
+    "HACKING ETICO/Practicas",
+    "BASTIONADO/Practicas/media",
+    "BASTIONADO/Practicas",
+    "BASTIONADO/Practicas/media/image 3.png",
+    "BASTIONADO/Practicas/media/image 4.png",
     "INCIDENTES/Practicas/Practica1.md",
-    "INCIDENTES/Practicas/Practica1.md",
+    "BASTIONADO/Practicas/media/image.png",
+    "BASTIONADO/Practicas/media/image 2.png",
+    "BASTIONADO/Practicas/media/image 1.png",
+    "BASTIONADO/Practica1BastionadoMiguelAngelBermudez/ExportBlock-44d6bf34-3626-408a-a7d6-4cd8ef1edce1-Part-1/image 4.png",
+    "BASTIONADO/Practica1BastionadoMiguelAngelBermudez/ExportBlock-44d6bf34-3626-408a-a7d6-4cd8ef1edce1-Part-1/image 3.png",
+    "BASTIONADO/Practica1BastionadoMiguelAngelBermudez/ExportBlock-44d6bf34-3626-408a-a7d6-4cd8ef1edce1-Part-1/Practica 1 Bastionado 136e9d1c1d5b8052970ad591de651a55.md",
+    "BASTIONADO/Practica1BastionadoMiguelAngelBermudez/ExportBlock-44d6bf34-3626-408a-a7d6-4cd8ef1edce1-Part-1",
+    "BASTIONADO/Practica1BastionadoMiguelAngelBermudez/ExportBlock-44d6bf34-3626-408a-a7d6-4cd8ef1edce1-Part-1.zip",
+    "BASTIONADO/Practica1BastionadoMiguelAngelBermudez",
+    "BASTIONADO/Practica1BastionadoMiguelAngelBermudez.zip",
+    "BASTIONADO/Sin confirmar 852574.crdownload",
+    "La-informacion.md",
+    "La.md",
+    "exportaciones/Practica1.md",
     "exportaciones",
     "output/Practica1.md",
-    "output",
     "output/Practica 1 - Incidentes de Ciberseguridad Miguel Ángel Bermúdez Cote.md",
-    "LINUX/media/7.png",
     "LINUX/Interfaz y escritorio.md",
-    "LINUX/media/Sin confirmar 567383.crdownload",
     "LINUX/Fundacion Linux.md",
     "LINUX/Sistemas de archivos, Procesos de arranque.md",
-    "LINUX/media/6.png",
-    "media/Sin confirmar 240619.crdownload",
-    "LINUX/media/5.png",
-    "media/Sin confirmar 974385.crdownload",
-    "LINUX/media/4.png",
-    "media/Sin confirmar 926977.crdownload",
-    "LINUX/media/3.png",
-    "media/Sin confirmar 622133.crdownload",
-    "LINUX/media/2.png",
-    "media/Sin confirmar 900477.crdownload",
-    "LINUX/media/1.png",
     "LINUX/Terminologia Linux.md",
-    "media/Sin confirmar 479196.crdownload",
-    "LINUX/media",
     "HACKING ETICO/Definiciones Básicas.md",
     "INCIDENTES/Practica 1/centralizacion.md",
     "INCIDENTES/Practica 1/Compartición.md",
@@ -206,7 +215,6 @@
     "INCIDENTES/Unidad 1.md",
     "2025-10-09.md",
     "INCIDENTES/Calendario incidentes.md",
-    "BASTIONADO/Multimedia de bastionado/apuntes.jpg",
     "Welcome.md"
   ]
 }
